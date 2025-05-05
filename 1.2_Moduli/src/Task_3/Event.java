@@ -1,4 +1,4 @@
-package Task_2;
+package Task_3;
 
 class Event implements Comparable<Event> {
     private String name;
